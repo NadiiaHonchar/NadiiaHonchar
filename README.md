@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NadiiaHonchar
 - 👀 I’m interested in how it works - programming
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently working as JS-developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nadiia-honchar-57755bb3/
 
